@@ -1,1 +1,1 @@
-//=require module/modal.js
+//=require module/module.js

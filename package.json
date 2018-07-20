@@ -1,5 +1,5 @@
 {
-  "name": "home",
+  "name": "Start Project",
   "version": "0.0.1",
   "description": "",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/KatyaMatya21/entrance-task-2-2.git"
+    "url": ""
   },
   "author": "",
   "license": "ISC",
